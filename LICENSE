@@ -1,0 +1,23 @@
+SimplPass Binary Release License
+
+Copyright (c) 2026 EmDiSoftware
+
+The compiled SimplPass application may be downloaded and used free of charge
+for personal and commercial use.
+
+Redistribution of the original, unmodified installer is permitted only when
+the installer is provided free of charge and this notice is retained.
+
+Modification, reverse engineering, repackaging, sale, or distribution of
+modified binaries is not permitted except where applicable law expressly
+allows otherwise.
+
+The source code is not included in this repository and is not licensed under
+an open-source license.
+
+Third-party components included in the installer (the .NET runtime, DokanNet,
+Konscious Argon2, the Manrope font and the official Dokany runtime) remain under
+their own licenses, which are listed in THIRD-PARTY-NOTICES.md and the docs\licenses
+folder installed with the application.
+
+The software is provided "as is", without warranty of any kind.

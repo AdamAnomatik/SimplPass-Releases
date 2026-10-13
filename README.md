@@ -1,7 +1,7 @@
 # SimplPass
 
 [![Latest Release](https://img.shields.io/github/v/release/AdamAnomatik/SimplPass-Releases?label=Latest%20Release)](https://github.com/AdamAnomatik/SimplPass-Releases/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/AdamAnomatik/SimplPass-Releases/total?label=Downloads)](https://github.com/AdamAnomatik/SimplPass-Releases/releases)
+[![Downloads](https://img.shields.io/github/downloads/AdamAnomatik/SimplPass-Releases/total?label=Downloads&cacheSeconds=3600)](https://github.com/AdamAnomatik/SimplPass-Releases/releases)
 [![Windows](https://img.shields.io/badge/Platform-Windows-0078D4)](https://github.com/AdamAnomatik/SimplPass-Releases/releases/latest)
 
 **English** · [Русский](README.ru.md)

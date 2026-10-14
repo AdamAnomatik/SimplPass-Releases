@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.1 — 2026-10-14
+
+- Fixed: SimplPass and its password prompt closed right after starting in 1.0.0. Install 1.0.1 over 1.0.0; protected folders and settings are kept.
+
 ## 1.0.0 — 2026-10-13
 
 First public release.
